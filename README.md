@@ -2,7 +2,7 @@
 
 ### Extracted Wallets List
 - List: [airbloc-publicsale-lottery-input.txt](airbloc-publicsale-lottery-input.txt)
-- SHA256 Hash of the file: `8c3bcc8e78711a2c14cb123f70f4117a7264f1ede7469f8954b155457aab24c2`
+- SHA256 Hash of the file: `c66db4e7a806372b1e63797c481d4533ded845c0aa47ca82f414cee5adab46e8`
 
 ### Lottery Result
 - **Winners list**: TBD
